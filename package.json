@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nucivic/react-dashboard.git"
+    "url": "https://github.com/Big-Silver/Redux-Climate-Dashboard.git"
   },
   "keywords": [
     "react",
@@ -27,15 +27,13 @@
     "visualizations",
     "d3"
   ],
-  "author": [
-    "Mariano Carballal <marianocarballal@gmail.com> (http://github.com/topicus)",
-    "Paul Walker <pjwalker76@gmail.com> (http://github.com/starsinmypockets@gmail.com)"
-  ],
+  "author": 
+    "Big Silver <danielsstar89@gmail.com> (http://github.com/Big-Silver)"  ,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nucivic/react-dashboard/issues"
+    "url": "https://github.com/Big-Silver/Redux-Climate-Dashboard.git/issues"
   },
-  "homepage": "https://github.com/NuCivic/react-dashboard",
+  "homepage": "https://github.com/Big-Silver/Redux-Climate-Dashboard.git",
   "devDependencies": {
     "babel-core": "^6.7.2",
     "babel-eslint": "^4.1.3",

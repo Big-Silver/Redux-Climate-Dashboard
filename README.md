@@ -1,5 +1,9 @@
-# React Dash
-React Dash is a library for quickly building custom data visualization dashboards based on re-usable components.
+# React Climate Dashboard
+
+<img width="900" src="src/stylesheets/img/react-climate-dashboard.png" border="0" />
+
+## About
+This is the Redux Dashboard using React/Redux by [Big-Silver].
 
 ## Features
 * NVD3 Components
@@ -13,20 +17,11 @@ React Dash is a library for quickly building custom data visualization dashboard
 ## Quick Start
 To set up the example project locallyt\:
 ```
-git clone https://github.com/NuCivic/react-dash.git
-cd react-dash
+https://github.com/Big-Silver/Redux-Climate-Dashboard.git
+cd Redux-Climate-Dashboard
 npm install
 npm run start
 ```
 * Visit localhost:3000 on your system
 
-## Boilerplate project
-For a more robust development environment check out: 
-https://github.com/NuCivic/react-dash-boilerplate
 
-## Example sites
-* http://nucivic.github.io/react-dash/
-* http://dev-ucr-dashboard.getnucivic.com/dashboard/12
-
-## Complete Documentation
-Check out the complete docs at http://react-dashboard.readthedocs.io/en/latest/
