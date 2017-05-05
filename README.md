@@ -15,7 +15,7 @@ This is the Redux Dashboard using React/Redux by [Big-Silver].
 * DKAN API Integration
 
 ## Quick Start
-To set up the example project locallyt\:
+To set up the example project locally
 ```
 https://github.com/Big-Silver/Redux-Climate-Dashboard.git
 cd Redux-Climate-Dashboard
